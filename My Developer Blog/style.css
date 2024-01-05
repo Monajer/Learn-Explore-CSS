@@ -1,0 +1,17 @@
+.blog, h3{
+    background-color: aquamarine;
+    border: 5px solid coral;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+    text-decoration: underline;
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+
+}
+/* p{
+    padding: 10px;
+    background-color: antiquewhite;
+} */

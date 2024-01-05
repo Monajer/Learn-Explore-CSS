@@ -1,0 +1,27 @@
+.heading .blog{
+    background-color: chocolate;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+/* p{
+    padding: 3px;
+    text-align: center;
+    color: blueviolet;
+    background-color: aquamarine;
+} */
+.lesson{
+    background-color: aquamarine;
+}
+li{
+    color: aqua;
+}
+#rule{
+    color: brown;
+    text-align: left;
+    font-size: large;
+}
+input[type="password"]{
+    color: brown;
+}
